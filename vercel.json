@@ -1,0 +1,11 @@
+{
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["cdg1"],
+  "env": {
+    "FIGMA_TOKEN": "@figma_token"
+  }
+}
